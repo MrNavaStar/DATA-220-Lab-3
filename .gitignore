@@ -1,0 +1,11 @@
+analysis_run.log
+local_notes.txt
+
+outputs/
+
+.Rhistory
+.RData
+.Rproj.user/
+
+.DS_Store
+Thumbs.db
