@@ -6,7 +6,7 @@ This project summarizes occupancy information for campus spaces. The R script re
 
 The project uses **synthetic teaching data** rather than real campus information. The tracked sample is:
 
-`data/samples/campus_spaces.csv`
+`data/sample/campus_spaces.csv`
 
 The sample contains 12 campus spaces with information about buildings, space types, seating capacity, occupancy, and noise level.
 
@@ -27,7 +27,7 @@ The sample contains 12 campus spaces with information about buildings, space typ
 Run the following command from the **repository root**:
 
 ```bash
-Rscript scripts/summarize_spaces.R data/samples/campus_spaces.csv
+Rscript scripts/summarize_spaces.R data/sample/campus_spaces.csv
 ```
 
 ## Expected Result
